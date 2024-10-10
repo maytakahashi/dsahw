@@ -8,6 +8,4 @@ public class StringNode {
 		item = null;
 		next = null;
 	}
-	
-
 }
